@@ -6,7 +6,7 @@ Table of Contents
 
 [Fonts](#fonts)
 
-[Export 123](#export)
+[Export](#adding-a-new-font)
 
 <br><br>
 
