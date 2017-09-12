@@ -6,7 +6,7 @@ Table of Contents
 
 [Fonts](#fonts)
 
-[Export](#export)
+[Export](#export 123)
 
 <br><br>
 
@@ -60,7 +60,7 @@ All fonts are installed via npm. To add a new font, search for the associated np
 <br>
 
 
-## Export123
+## Export 123
 
 Resumes are being exported with [Electroshot](https://github.com/mixu/electroshot).
 
